@@ -1,0 +1,11 @@
+
+.done{
+  text-decoration: line-through;
+}
+.delete{
+  background-color: red;
+  width: 20px;
+  height: 20px;
+  margin:10px;
+  text-align: center;
+}
